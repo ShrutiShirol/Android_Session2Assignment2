@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Credit Card Helper</string>
+    <string name="txt1">Enter Card Balance($)</string>
+    <string name="txt2">Enter Yeraly Interest Rate(%)</string>
+    <string name="txt3">Enter Minimum Payment($)</string>
+    <string name="txt4">Final Card Balance($)</string>
+    <string name="txt5">Months Remaining</string>
+    <string name="txt6">Interest Paid Will be($)</string>
+    <string name="compute">Compute</string>
+    <string name="clear">Clear</string>
+</resources>
